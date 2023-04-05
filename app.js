@@ -32,7 +32,7 @@ function updateTime() {
     hour++;
   }
   if (hour > 12) {
-    hour = 1;
+    hour -= 12;
   }
   updateDisplay();
 }
