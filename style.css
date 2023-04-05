@@ -36,7 +36,7 @@ body {
   left: 20%;
   padding: 5px 20px;
   border-radius: 5px;
-  transform: translateY(200px);
+  transform: translateY(150px);
 }
 #roll:hover {
   background: linear-gradient(45deg, rgb(3, 246, 3) 0%, rgb(48, 48, 255) 100%);
