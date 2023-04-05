@@ -36,4 +36,5 @@ function updateTime() {
   }
   updateDisplay();
 }
+updateTime();
 window.setInterval(updateTime, 1000);
